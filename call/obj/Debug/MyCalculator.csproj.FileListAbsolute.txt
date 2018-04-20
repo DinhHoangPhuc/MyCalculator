@@ -1,0 +1,36 @@
+C:\Users\Nikon\Desktop\My Assignment 1\call\call\bin\Debug\call.exe.config
+C:\Users\Nikon\Desktop\My Assignment 1\call\call\bin\Debug\call.exe
+C:\Users\Nikon\Desktop\My Assignment 1\call\call\bin\Debug\call.pdb
+C:\Users\Nikon\Desktop\My Assignment 1\call\call\obj\Debug\MyCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Nikon\Desktop\My Assignment 1\call\call\obj\Debug\call.Form1.resources
+C:\Users\Nikon\Desktop\My Assignment 1\call\call\obj\Debug\call.Properties.Resources.resources
+C:\Users\Nikon\Desktop\My Assignment 1\call\call\obj\Debug\MyCalculator.csproj.GenerateResource.Cache
+C:\Users\Nikon\Desktop\My Assignment 1\call\call\obj\Debug\call.exe
+C:\Users\Nikon\Desktop\My Assignment 1\call\call\obj\Debug\call.pdb
+C:\Users\Nikon\Desktop\My Assignment 1\Calculator final\call\bin\Debug\call.exe.config
+C:\Users\Nikon\Desktop\My Assignment 1\Calculator final\call\obj\Debug\call.exe
+C:\Users\Nikon\Desktop\My Assignment 1\Calculator final\call\obj\Debug\call.pdb
+C:\Users\Nikon\Desktop\My Assignment 1\Calculator final\call\bin\Debug\call.exe
+C:\Users\Nikon\Desktop\My Assignment 1\Calculator final\call\bin\Debug\call.pdb
+C:\Users\Nikon\Desktop\My Assignment 1\Calculator final\call\obj\Debug\MyCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Nikon\Desktop\My Assignment 1\Calculator final\call\obj\Debug\call.Form1.resources
+C:\Users\Nikon\Desktop\My Assignment 1\Calculator final\call\obj\Debug\call.Properties.Resources.resources
+C:\Users\Nikon\Desktop\My Assignment 1\Calculator final\call\obj\Debug\MyCalculator.csproj.GenerateResource.Cache
+C:\Users\Nikon\Desktop\Calculator final\call\bin\Debug\call.exe.config
+C:\Users\Nikon\Desktop\Calculator final\call\obj\Debug\call.exe
+C:\Users\Nikon\Desktop\Calculator final\call\obj\Debug\call.pdb
+C:\Users\Nikon\Desktop\Calculator final\call\bin\Debug\call.exe
+C:\Users\Nikon\Desktop\Calculator final\call\bin\Debug\call.pdb
+C:\Users\Nikon\Desktop\Calculator final\call\obj\Debug\MyCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Nikon\Desktop\Calculator final\call\obj\Debug\call.Form1.resources
+C:\Users\Nikon\Desktop\Calculator final\call\obj\Debug\call.Properties.Resources.resources
+C:\Users\Nikon\Desktop\Calculator final\call\obj\Debug\MyCalculator.csproj.GenerateResource.Cache
+C:\Users\Nikon\Desktop\Calculator final---end\call\bin\Debug\call.exe.config
+C:\Users\Nikon\Desktop\Calculator final---end\call\obj\Debug\call.exe
+C:\Users\Nikon\Desktop\Calculator final---end\call\obj\Debug\call.pdb
+C:\Users\Nikon\Desktop\Calculator final---end\call\bin\Debug\call.exe
+C:\Users\Nikon\Desktop\Calculator final---end\call\bin\Debug\call.pdb
+C:\Users\Nikon\Desktop\Calculator final---end\call\obj\Debug\MyCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Nikon\Desktop\Calculator final---end\call\obj\Debug\call.Form1.resources
+C:\Users\Nikon\Desktop\Calculator final---end\call\obj\Debug\call.Properties.Resources.resources
+C:\Users\Nikon\Desktop\Calculator final---end\call\obj\Debug\MyCalculator.csproj.GenerateResource.Cache

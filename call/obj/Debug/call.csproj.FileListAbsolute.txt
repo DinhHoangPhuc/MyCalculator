@@ -1,0 +1,9 @@
+C:\Users\Nikon\Desktop\My Assignment 1\call\call\bin\Debug\call.exe.config
+C:\Users\Nikon\Desktop\My Assignment 1\call\call\bin\Debug\call.exe
+C:\Users\Nikon\Desktop\My Assignment 1\call\call\bin\Debug\call.pdb
+C:\Users\Nikon\Desktop\My Assignment 1\call\call\obj\Debug\call.csprojResolveAssemblyReference.cache
+C:\Users\Nikon\Desktop\My Assignment 1\call\call\obj\Debug\call.Form1.resources
+C:\Users\Nikon\Desktop\My Assignment 1\call\call\obj\Debug\call.Properties.Resources.resources
+C:\Users\Nikon\Desktop\My Assignment 1\call\call\obj\Debug\call.csproj.GenerateResource.Cache
+C:\Users\Nikon\Desktop\My Assignment 1\call\call\obj\Debug\call.exe
+C:\Users\Nikon\Desktop\My Assignment 1\call\call\obj\Debug\call.pdb

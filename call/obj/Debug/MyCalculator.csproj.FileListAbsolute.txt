@@ -34,3 +34,13 @@ C:\Users\Nikon\Desktop\Calculator final---end\call\obj\Debug\MyCalculator.csproj
 C:\Users\Nikon\Desktop\Calculator final---end\call\obj\Debug\call.Form1.resources
 C:\Users\Nikon\Desktop\Calculator final---end\call\obj\Debug\call.Properties.Resources.resources
 C:\Users\Nikon\Desktop\Calculator final---end\call\obj\Debug\MyCalculator.csproj.GenerateResource.Cache
+C:\Users\DINH HOANG PHUC\Desktop\OneDrive - Ho Chi Minh city University of Food Industry\HOC_TAP\HK_5\CongNghe.Net\MyCAculator\MyCalculator\call\bin\Debug\call.exe.config
+C:\Users\DINH HOANG PHUC\Desktop\OneDrive - Ho Chi Minh city University of Food Industry\HOC_TAP\HK_5\CongNghe.Net\MyCAculator\MyCalculator\call\bin\Debug\call.exe
+C:\Users\DINH HOANG PHUC\Desktop\OneDrive - Ho Chi Minh city University of Food Industry\HOC_TAP\HK_5\CongNghe.Net\MyCAculator\MyCalculator\call\bin\Debug\call.pdb
+C:\Users\DINH HOANG PHUC\Desktop\OneDrive - Ho Chi Minh city University of Food Industry\HOC_TAP\HK_5\CongNghe.Net\MyCAculator\MyCalculator\call\obj\Debug\MyCalculator.csproj.AssemblyReference.cache
+C:\Users\DINH HOANG PHUC\Desktop\OneDrive - Ho Chi Minh city University of Food Industry\HOC_TAP\HK_5\CongNghe.Net\MyCAculator\MyCalculator\call\obj\Debug\call.Form1.resources
+C:\Users\DINH HOANG PHUC\Desktop\OneDrive - Ho Chi Minh city University of Food Industry\HOC_TAP\HK_5\CongNghe.Net\MyCAculator\MyCalculator\call\obj\Debug\call.Properties.Resources.resources
+C:\Users\DINH HOANG PHUC\Desktop\OneDrive - Ho Chi Minh city University of Food Industry\HOC_TAP\HK_5\CongNghe.Net\MyCAculator\MyCalculator\call\obj\Debug\MyCalculator.csproj.GenerateResource.cache
+C:\Users\DINH HOANG PHUC\Desktop\OneDrive - Ho Chi Minh city University of Food Industry\HOC_TAP\HK_5\CongNghe.Net\MyCAculator\MyCalculator\call\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\DINH HOANG PHUC\Desktop\OneDrive - Ho Chi Minh city University of Food Industry\HOC_TAP\HK_5\CongNghe.Net\MyCAculator\MyCalculator\call\obj\Debug\call.exe
+C:\Users\DINH HOANG PHUC\Desktop\OneDrive - Ho Chi Minh city University of Food Industry\HOC_TAP\HK_5\CongNghe.Net\MyCAculator\MyCalculator\call\obj\Debug\call.pdb

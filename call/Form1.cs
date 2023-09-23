@@ -13,160 +13,133 @@ namespace call
     public partial class Form1 : Form
     {
 
-        double result=0;
+        double result = 0;
         String operation = "";
         bool enter_value = false;
 
-        string fst, scnd,rs,a;
+        string fst, scnd, rs, a;
         double MemoryStore = 0;
-
-
 
         public Form1()
         {
             InitializeComponent();
         }
 
-       
-
         private void numbers_Only(object sender, EventArgs e)
         {
-
             Button b = (Button)sender;
 
             if ((txtDisplay.Text == "0") || (enter_value))
                 txtDisplay.Text = "";
             enter_value = false;
-        
 
             if (b.Text == ".")
             {
                 if (!txtDisplay.Text.Contains("."))
-                    
                     txtDisplay.Text = txtDisplay.Text + b.Text;
                 a = txtDisplay.Text;
-              
-
             }
-
-
             else
             {
                 txtDisplay.Text = txtDisplay.Text + b.Text;
                 a = txtDisplay.Text;
-                
             }
-
-
-
-
         }
 
         private void operators_click(object sender, EventArgs e)
         {
-             try
+            try
             {
-            Button b = (Button)sender;
+                Button b = (Button)sender;
 
-            if  (result != 0) 
+                if (result != 0)
+                {
+                    enter_value = true;
+                    operation = b.Text;
+                    lblShowOps.Text = result + "  " + operation;
+                }
+                else
+                {
+                    operation = b.Text;
+                    result = double.Parse(txtDisplay.Text);
+                    enter_value = true;
+
+                    lblShowOps.Text = result + "  " + operation;
+
+                }
+            }
+            catch (Exception ex)
             {
-               
-                enter_value = true;
-                operation = b.Text;
-                lblShowOps.Text = result + "  " + operation;
-
+                MessageBox.Show(ex.Message);
             }
-
-          
-
-            else
-            {
-
-                operation = b.Text;
-                result = double.Parse(txtDisplay.Text);
-                enter_value = true;
-               
-                lblShowOps.Text = result + "  "+operation; 
-          
-            }
-            }
-             catch (Exception ex)
-             {
-                 MessageBox.Show(ex.Message);
-             }
 
         }
 
         private void btnEquals_Click(object sender, EventArgs e)
         {
 
-              try
+            try
             {
 
-            txtDisplay.Text = a;
-           
-            lblShowOps.Text = "";
-   
-            scnd = txtDisplay.Text;
-            rs = result + "";
+                txtDisplay.Text = a;
 
-        
+                lblShowOps.Text = "";
 
-            switch (operation)
+                scnd = txtDisplay.Text;
+                rs = result + "";
+
+
+
+                switch (operation)
+                {
+                    case "+":
+                        result = (result + Double.Parse(txtDisplay.Text));
+                        break;
+                    case "-":
+                        result = (result - Double.Parse(txtDisplay.Text));
+                        break;
+                    case "*":
+                        result = (result * Double.Parse(txtDisplay.Text));
+                        break;
+                    case "/":
+                        result = (result / Double.Parse(txtDisplay.Text));
+                        break;
+                    default:
+                        break;
+                }
+
+                fst = rs + "  " + operation;
+
+                txtDisplay.Text = result + "";
+
+            }
+            catch (Exception ex)
             {
-                case "+":
-
-                   
-                    result = (result + Double.Parse(txtDisplay.Text));
-                   
-                    break;
-                case "-":
-                   
-                    result = (result - Double.Parse(txtDisplay.Text));
-                    break;
-                case "*":
-                  
-                    result = (result * Double.Parse(txtDisplay.Text));
-                    break;
-                case "/":
-                  
-                    result = (result / Double.Parse(txtDisplay.Text));
-                    break;
-                default:
-
-                    break;
+                MessageBox.Show(ex.Message);
             }
-
-           
-           
-            fst = rs + "  " + operation;
-
-           
-            txtDisplay.Text = result + "";
-
-            }
-              catch (Exception ex)
-              {
-                  MessageBox.Show(ex.Message);
-              }
-
-           
-
-            //
 
             btnclrhs.Visible = true;
             displayhs.AppendText(fst + "    " + scnd + " " + "\n");
             displayhs.AppendText("\n\t" + " = " + result + "\n\t\n");
             lbhs.Text = "";
-
-
-           
-
         }
 
-     
+
 
         private void btnce_Click(object sender, EventArgs e)
+        {
+            txtDisplay.Show();
+            txtDisplay.Text = "0";
+            result = 0;
+            lblShowOps.Text = "";
+            scnd = "0";
+            rs = "0";
+            a = "0";
+        }
+
+
+
+        private void btnc_Click(object sender, EventArgs e)
         {
             txtDisplay.Show();
             txtDisplay.Text = "0";
@@ -180,20 +153,6 @@ namespace call
 
 
 
-        private void btnc_Click(object sender, EventArgs e)
-        {
-            txtDisplay.Show();
-            txtDisplay.Text = "0";
-            result = 0;
-            lblShowOps.Text = "";
-            scnd = "0";
-            rs  = "0";
-           a = "0";
-
-        }
-
-
-
         private void btnx_Click(object sender, EventArgs e)
         {
             txtDisplay.Show();
@@ -201,14 +160,14 @@ namespace call
             {
                 txtDisplay.Text = txtDisplay.Text.Remove(txtDisplay.Text.Length - 1, 1);
 
-            
-            
+
+
             }
             if (txtDisplay.Text == "")
             {
 
                 txtDisplay.Text = "0";
-            
+
             }
 
         }
@@ -225,7 +184,7 @@ namespace call
             }
 
             btnclrhs.Visible = false;
-           
+
 
 
 
